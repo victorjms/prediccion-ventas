@@ -1,2 +1,2 @@
 # prediccion-ventas
-Predicci'on de ventas de productos alimenticios.
+Predicción de ventas de productos alimenticios.
